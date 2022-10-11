@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oyetechn
-- 👀 I’m interested in Web and mobile app development 
-- 🌱 I’m currently learning Coding and web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development 
+- 🌱 I’m currently studying Computer science 
+- 💞️ I’m looking to collaborate on Instagram and Twitter 
+- 📫 How to reach me ...Oyetechn on IG 
 
 <!---
 Oyetechn/Oyetechn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
