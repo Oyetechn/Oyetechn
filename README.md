@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oyetechn
-- 👀 I’m interested in software development 
+- 👀 Aspiring software Engineer
 - 🌱 I’m currently studying Computer science 
-- 💞️ I’m looking to collaborate on Instagram and Twitter 
+- 💞️ Friendly and Open for correction 
 - 📫 How to reach me ...Oyetechn on IG 
 
 <!---
