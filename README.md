@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Oyetechn
-- 👀 Aspiring software Engineer
-- 🌱 I’m currently studying Computer science 
+- 👋 Hi, I’m Oye
+- 👀Front end web developer | Aspiring software Engineer
+- 🌱 Computer science student 
 - 💞️ Friendly and Open for correction 
 - 📫 How to reach me ...Oyetechn on IG 
 
